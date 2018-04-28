@@ -1,0 +1,18 @@
+{
+  "name": "nightwatchsample",
+  "version": "1.0.0",
+  "description": "This project is for creating nightwatch selenium tests",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Shrinivas Bagewadi",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "handlebars": "^4.0.11",
+    "mocha": "^5.1.1",
+    "nightwatch": "^0.9.21",
+    "selenium": "^2.20.0"
+  }
+}
